@@ -3,7 +3,7 @@
 ## サイト概要
 **<目的>**
  - 料理の参考のために閲覧したしたレシピサイトを記録＆閲覧でき<br>
- 自分食事の傾向を見ることで健康管理できるのを目的としている。
+ 自分の食事の傾向を見ることで健康管理できるのを目的としている。
 
 **<機能>**
 - **レシピ作成機能**
@@ -36,7 +36,7 @@
 <...>
 
 ## チャレンジ要素一覧
-[チャレンジ要素](https://docs.google.com/spreadsheets/d/1JOr0skKkhRxZkdFON3QVWHU0aYcqBlxOa2OuriFrG-Q/edit?usp=sharing)
+[チャレンジ要素一覧](https://docs.google.com/spreadsheets/d/1JOr0skKkhRxZkdFON3QVWHU0aYcqBlxOa2OuriFrG-Q/edit?usp=sharing)
 
 
 ## 開発環境
